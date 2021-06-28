@@ -23,7 +23,7 @@ resources:
 title: Engenharia
 path: engenharia
 strategy:
-  type: custom:strategy-filter
+  type: custom:strategy-group
 group: group.engenharia
 ```
 
