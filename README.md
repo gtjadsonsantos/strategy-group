@@ -35,8 +35,8 @@ group: group.engenharia
 | camera              | `custom:webrtc-camera` | https://github.com/AlexxIT/WebRTC                        |
 | lock                | `entities`             | https://www.home-assistant.io/lovelace/entities/         |
 | climate             | `thermostat`           | https://www.home-assistant.io/lovelace/thermostat/       |
-| scene               | `entities`             | https://www.home-assistant.io/lovelace/thermostat/       |
-| binary_sensor       | `entities`             | https://www.home-assistant.io/lovelace/thermostat/       |
+| scene               | `entities`             | https://www.home-assistant.io/lovelace/entities/       |
+| binary_sensor       | `entities`             | https://www.home-assistant.io/lovelace/entities/       |
 | sensor              | `sensor`               | https://www.home-assistant.io/lovelace/sensor/           |
 | cover               | `entities`             | https://www.home-assistant.io/lovelace/entities/         |
 | switch              | `entities`             | https://www.home-assistant.io/lovelace/entities/         |
