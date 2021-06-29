@@ -92,4 +92,4 @@ class StrategyGroup {
   
 }
 
-customElements.define("ll-strategy-strategy-group", StrategyByGroup);
+customElements.define("ll-strategy-strategy-group", StrategyGroup);
